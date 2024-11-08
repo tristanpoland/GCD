@@ -15,6 +15,7 @@ GCD is a powerful command-line tool written in Rust designed to make navigating 
 ### Quick install
 
 ```bash
+grip registry add github.com/tristanpoland/My-Grip-Registry
 grip install gcd
 ```
 
